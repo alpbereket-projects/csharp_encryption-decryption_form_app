@@ -1,0 +1,38 @@
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.csprojAssemblyReference.cache
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.ToolGiris.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.Secenekler_Formu.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.Properties.Resources.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.VigenereSifreCozucu.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.VigenereSifreleme.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.csproj.GenerateResource.cache
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\bin\Debug\Encryption_Decryption.exe.config
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\bin\Debug\Encryption_Decryption.exe
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\bin\Debug\Encryption_Decryption.pdb
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.exe
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.pdb
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.AesCoz.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.AesŞifrele.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.MD5Sifreleme.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.SezarSifreCozucu.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.SezarSifreleme.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Debug\Encryption_Decryption.Sha256Sifrele.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\bin\Debug\Encryption_Decryption.exe.config
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\bin\Debug\Encryption_Decryption.exe
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\bin\Debug\Encryption_Decryption.pdb
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.csprojAssemblyReference.cache
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.AesCoz.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.Sha256Sifrele.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.ToolGiris.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.MD5Sifreleme.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.AesŞifrele.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.Secenekler_Formu.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.Properties.Resources.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.SezarSifreCozucu.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.SezarSifreleme.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.VigenereSifreCozucu.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.VigenereSifreleme.resources
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.csproj.GenerateResource.cache
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.exe
+C:\Users\Alp\Desktop\Siber güvenlik ödev\Encryption-Decryption Tool\obj\Debug\Encryption_Decryption.pdb

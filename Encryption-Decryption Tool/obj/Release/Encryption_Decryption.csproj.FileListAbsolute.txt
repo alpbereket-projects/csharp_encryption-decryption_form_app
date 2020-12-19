@@ -1,0 +1,6 @@
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Release\Encryption_Decryption.Properties.Resources.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Release\Encryption_Decryption.VigenereSifreCozucu.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Release\Encryption_Decryption.VigenereSifreleme.resources
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Release\Encryption_Decryption.csproj.GenerateResource.cache
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Release\Encryption_Decryption.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Desktop\C-Sharp-Windows-Forms-master (1)\C-Sharp-Windows-Forms-master\VigenereCipher\VigenereCipher\obj\Release\Encryption_Decryption.exe
